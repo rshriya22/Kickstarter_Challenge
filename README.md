@@ -14,7 +14,7 @@ Analysis:
 
 The new column, Years, in Kickstarter data is created where the Years() function is used to extract the data from the "Date Created Conversion" column. Adding the "years" column will analyze the outcome based on the lunch date and it also helps to know the years all the Plays were released.
 
-
+<img src = "Screenshot 2022-03-14 042222.png" width = "100" />
  
 
 After that, the Pivot table and pivot chart were created using the Kickstarter data set and placed the pivot table on the new sheet. The pivot table helps to analyze and explore many Outcomes in more detail. The pivot table was filtered based on the Parent Category, and Years and placed on appropriate fields in the columns, rows, and values. The column label is filtered to show only successful, failed, and canceled. Whereas the Parent Category is filtered to show the data for Theater only. The line graph from the pivot table was created to visualize the relationship between outcomes and launch a month after filtering and the "Parent Category and Theater" column.
